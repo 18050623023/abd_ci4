@@ -6,7 +6,7 @@
     <div class="col-12">
         <div class="card">
             <div class="card-header">
-                <h3 class="card-title"> CodeIgniter4 - DataTable Serverside with ajax crud & Faker phus Database</h3>
+                <h3 class="card-title"> CodeIgniter4 - DataTable Serverside with ajax crud & Faker phus Database<br>Hafiz Rizqon Adinata 18050623023</h3>
                 <div class="float-right">
                     <div class="btn-group">
                         <button type="button" class="btn btn-sm btn-block btn-primary" id="create-book" data-toggle="modal" data-target="#modal-create-book"><i class="fa fa-plus"></i> Create Book</button>
